@@ -78,6 +78,7 @@ h2 {
    background-color: #ffffff;
    padding: 16px;
    border: 1px solid #8a7ba8;
+   border-radius: 8px;
 }
 
 .card h3 {
@@ -119,6 +120,7 @@ h2 {
    padding: 10px 22px;
    background-color: #7b2d3b;
    color: #ffffff;
+   border: none;
    border-radius: 6px;
    font-size: 1rem;
    cursor: pointer;
